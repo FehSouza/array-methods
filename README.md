@@ -1,15 +1,15 @@
 ## Methods
 
-[x] map
+- [x] - map
 
-[x] filter
+- [x] - filter
 
-[x] some
+- [x] - some
 
-[x] every
+- [x] - every
 
-[x] reduce
+- [x] - reduce
 
-[x] indexOf
+- [x] - indexOf
 
-[] find
+- [] - find
