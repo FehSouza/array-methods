@@ -16,4 +16,4 @@
 
 - [x] - find
 
-- [] - findIndex
+- [x] - findIndex
