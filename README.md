@@ -10,6 +10,10 @@
 
 - [x] - reduce
 
+- [x] - reduceRight
+
 - [x] - indexOf
 
-- [] - find
+- [x] - find
+
+- [] - findIndex
